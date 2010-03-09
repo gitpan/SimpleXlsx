@@ -1,0 +1,6 @@
+Revision history for Perl extension SimpleXlsx.
+
+0.01  Thu Feb  4 13:02:13 2010
+	- original version; created by h2xs 1.23 with options
+		-AXc -n SimpleXlsx
+
