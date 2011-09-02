@@ -1,5 +1,8 @@
 Revision history for Perl extension SimpleXlsx.
 
+0.03  Fri Sep  2 15:27:13 2011
+  - Inadvertantly uploaded the wrong tarball. Corrected version information.
+
 0.02  Fri Sep  2 15:27:13 2011
   - Implemented patch provided by Matt Ulman to support strings
 
