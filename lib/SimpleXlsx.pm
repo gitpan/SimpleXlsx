@@ -221,7 +221,7 @@ sub parse
         }
         else
         {
-          push @rdata, $strings[$cols->[$col]->{'v'}];
+          push @rdata, ($cols->[$col]->{'t'} eq 's' ?  $strings[$cols->[$col]->{'v'}] : $cols->[$col]->{'v'});
         }
 
         push @sdata, $styles->[$cols->[$col]->{'s'}];
